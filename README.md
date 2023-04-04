@@ -27,11 +27,9 @@ More Info: A link to more information about the player on the Premier League web
 You can modify the script to extract different data or save it to a different file name.
 
 Contributing
+
 Contributions are welcome! If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
 
-License
-
-This script is released under the MIT License. Feel free to use it for any purpose, commercial or non-commercial.
 
 
 
